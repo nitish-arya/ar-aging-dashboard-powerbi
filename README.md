@@ -86,7 +86,8 @@ Outstanding 90+ % = DIVIDE(
 
 **Page 2: Key Insights**: written findings and recommended actions.
 
-*(Add screenshots here: `images/overview.png`, `images/insights.png`)*
+*(Add screenshots here: ![AR Overview](images/overview.png)
+![Key Insights](images/insights.png))*
 
 ## Key Insights
 
