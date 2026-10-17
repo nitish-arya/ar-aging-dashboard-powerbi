@@ -83,12 +83,9 @@ Outstanding 90+ % = DIVIDE(
 - Billed vs Collected by Month
 - Denied Amount by Reason
 - Payer slicer (the Payer chart is excluded from the slicer so it always shows all payers)
-
+<img width="907" height="500" alt="overview" src="https://github.com/user-attachments/assets/a0dc1f16-3969-4c62-9858-6c8d95f651e1" />
 **Page 2: Key Insights**: written findings and recommended actions.
-
-*(Add screenshots here: <img width="907" height="500" alt="overview" src="https://github.com/user-attachments/assets/a0dc1f16-3969-4c62-9858-6c8d95f651e1" />
 <img width="905" height="509" alt="insights" src="https://github.com/user-attachments/assets/d28d7dc0-6c44-401c-85a5-f02676bdea11" />
-)*
 
 ## Key Insights
 
